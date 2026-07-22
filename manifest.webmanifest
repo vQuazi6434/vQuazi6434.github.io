@@ -1,0 +1,9 @@
+{
+  "name": "MotorlabS V13 Master Workshop Update",
+  "short_name": "MotorlabS V13",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": []
+}
